@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a Fabasoft Developer who is currently studying TI (Technical Computer Science).
 
 <!--
 **chrisi2023/chrisi2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
