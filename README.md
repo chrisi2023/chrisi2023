@@ -1,5 +1,7 @@
 ### Hi there 👋
-I am a Fabasoft Developer who is currently studying TI (Technical Computer Science).
+
+My Name is Gschladt Christian. I am from FH Albstadt Sigmaringen and taking TI (Technical Computer Science).
+I work parttime as Softwaredeveloper by DXC Germany.
 
 <!--
 **chrisi2023/chrisi2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
